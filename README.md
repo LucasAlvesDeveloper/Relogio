@@ -2,4 +2,5 @@
 
 Planejo testar o **GitHub Pages** com este repositório privado.
 
-Descobri que isso não é possível. ;^;
+Edit: Descobri que isso não é possível. ;^;
+Realmente uma pena.
